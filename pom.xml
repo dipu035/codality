@@ -13,6 +13,7 @@
         <module>binary-gap</module>
         <module>cyclic-rotation</module>
         <module>perm-missing-elem</module>
+        <module>frog-jmp</module>
     </modules>
 
     <properties>
