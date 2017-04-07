@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="binary-gap" />
+        <module name="binarygap" />
+        <module name="cyclic-rotation" />
+        <module name="oddoccurrencesinarray" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="binary-gap" target="1.8" />
+      <module name="binarygap" target="1.8" />
+      <module name="codality-example-parent" target="1.8" />
+      <module name="cyclic-rotation" target="1.8" />
+      <module name="oddoccurrencesinarray" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

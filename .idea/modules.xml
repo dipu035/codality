@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/binary-gap/binary-gap.iml" filepath="$PROJECT_DIR$/binary-gap/binary-gap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/codality-example-parent.iml" filepath="$PROJECT_DIR$/codality-example-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cyclic-rotation/cyclic-rotation.iml" filepath="$PROJECT_DIR$/cyclic-rotation/cyclic-rotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oddoccurrencesinarray/oddoccurrencesinarray.iml" filepath="$PROJECT_DIR$/oddoccurrencesinarray/oddoccurrencesinarray.iml" />
+    </modules>
+  </component>
+</project>
