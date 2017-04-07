@@ -12,6 +12,7 @@
         <module>oddoccurrencesinarray</module>
         <module>binary-gap</module>
         <module>cyclic-rotation</module>
+        <module>perm-missing-elem</module>
     </modules>
 
     <properties>

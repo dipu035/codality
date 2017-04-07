@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/codality-example-parent.iml" filepath="$PROJECT_DIR$/codality-example-parent.iml" />
       <module fileurl="file://$PROJECT_DIR$/cyclic-rotation/cyclic-rotation.iml" filepath="$PROJECT_DIR$/cyclic-rotation/cyclic-rotation.iml" />
       <module fileurl="file://$PROJECT_DIR$/oddoccurrencesinarray/oddoccurrencesinarray.iml" filepath="$PROJECT_DIR$/oddoccurrencesinarray/oddoccurrencesinarray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/perm-missing-elem/perm-missing-elem.iml" filepath="$PROJECT_DIR$/perm-missing-elem/perm-missing-elem.iml" />
     </modules>
   </component>
 </project>

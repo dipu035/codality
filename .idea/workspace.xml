@@ -1,13 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9c51f4d1-1bab-47de-ba85-c101cdc4c773" name="Default" comment="">
+    <list default="true" id="9c51f4d1-1bab-47de-ba85-c101cdc4c773" name="Default" comment="Perm-missing-elem">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/perm-missing-elem/perm-missing-elem.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/perm-missing-elem/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/perm-missing-elem/src/main/java/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/perm-missing-elem/src/test/java/PermMissingElemTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/oddoccurrencesinarray/target/" />
     <ignored path="$PROJECT_DIR$/binary-gap/target/" />
     <ignored path="$PROJECT_DIR$/cyclic-rotation/target/" />
+    <ignored path="$PROJECT_DIR$/perm-missing-elem/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,48 +29,12 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="SolutionTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/oddoccurrencesinarray/src/test/java/SolutionTest.java">
+      <file leaf-file-name="Solution.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/perm-missing-elem/src/main/java/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="504">
-              <caret line="25" column="5" lean-forward="false" selection-start-line="13" selection-start-column="4" selection-end-line="25" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cyclic-rotation/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="105">
+              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Solution.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cyclic-rotation/src/main/java/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="609">
-              <caret line="31" column="5" lean-forward="false" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CyclicRotationTest.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/cyclic-rotation/src/test/java/CyclicRotationTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="548">
-              <caret line="29" column="17" lean-forward="false" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -103,6 +75,8 @@
         <option value="$PROJECT_DIR$/src/test/java/SolutionTest.java" />
         <option value="$PROJECT_DIR$/cyclic-rotation/src/main/java/Solution.java" />
         <option value="$PROJECT_DIR$/cyclic-rotation/src/test/java/CyclicRotationTest.java" />
+        <option value="$PROJECT_DIR$/perm-missing-elem/src/test/java/PermMissingElemTest.java" />
+        <option value="$PROJECT_DIR$/perm-missing-elem/src/main/java/Solution.java" />
       </list>
     </option>
   </component>
@@ -147,6 +121,122 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="codality" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="codality" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="perm-missing-elem" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="codality" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="codality" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="perm-missing-elem" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="codality" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="codality" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="perm-missing-elem" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="codality" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="codality" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="binary-gap" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="codality" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="codality" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="binary-gap" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="codality" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="codality" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="binary-gap" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="PackagesPane" />
@@ -182,7 +272,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.CyclicRotationTest.solution_cyclic_rotation">
+  <component name="RunManager" selected="JUnit.PermMissingElemTest">
     <configuration default="false" name="SolutionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="binary-gap" />
@@ -255,6 +345,27 @@
       <option name="MAIN_CLASS_NAME" value="CyclicRotationTest" />
       <option name="METHOD_NAME" value="solution_cyclic_rotation" />
       <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="PermMissingElemTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="perm-missing-elem" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PermMissingElemTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -663,18 +774,20 @@
     <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
       <method />
     </configuration>
-    <list size="4">
+    <list size="5">
       <item index="0" class="java.lang.String" itemvalue="JUnit.SolutionTest" />
       <item index="1" class="java.lang.String" itemvalue="JUnit.SolutionTest (1)" />
       <item index="2" class="java.lang.String" itemvalue="JUnit.SolutionTest.binarygapSolutionTest" />
       <item index="3" class="java.lang.String" itemvalue="JUnit.CyclicRotationTest.solution_cyclic_rotation" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.PermMissingElemTest" />
     </list>
     <recent_temporary>
-      <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.CyclicRotationTest.solution_cyclic_rotation" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.SolutionTest" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.SolutionTest (1)" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.SolutionTest.binarygapSolutionTest" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="JUnit.PermMissingElemTest" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.CyclicRotationTest.solution_cyclic_rotation" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.SolutionTest" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.SolutionTest (1)" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.SolutionTest.binarygapSolutionTest" />
       </list>
     </recent_temporary>
   </component>
@@ -692,44 +805,52 @@
       <workItem from="1489754213163" duration="9572000" />
       <workItem from="1491550684024" duration="5804000" />
       <workItem from="1491558071833" duration="314000" />
-      <workItem from="1491558800980" duration="14000" />
+      <workItem from="1491558800980" duration="2292000" />
     </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <created>1491558828305</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1491558828305</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="CyclicRotationTest_solution_cyclic_rotation - 2017.04.07 at 11h 18m 53s.xml">
-      <configuration name="CyclicRotationTest.solution_cyclic_rotation" configurationId="JUnit" />
+    <history-entry file="PermMissingElemTest - 2017.04.07 at 12h 13m 57s.xml">
+      <configuration name="PermMissingElemTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CyclicRotationTest_solution_cyclic_rotation - 2017.04.07 at 11h 19m 12s.xml">
-      <configuration name="CyclicRotationTest.solution_cyclic_rotation" configurationId="JUnit" />
+    <history-entry file="PermMissingElemTest - 2017.04.07 at 12h 15m 13s.xml">
+      <configuration name="PermMissingElemTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CyclicRotationTest_solution_cyclic_rotation - 2017.04.07 at 11h 19m 35s.xml">
-      <configuration name="CyclicRotationTest.solution_cyclic_rotation" configurationId="JUnit" />
+    <history-entry file="PermMissingElemTest - 2017.04.07 at 12h 15m 31s.xml">
+      <configuration name="PermMissingElemTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CyclicRotationTest_solution_cyclic_rotation - 2017.04.07 at 11h 33m 01s.xml">
-      <configuration name="CyclicRotationTest.solution_cyclic_rotation" configurationId="JUnit" />
+    <history-entry file="PermMissingElemTest - 2017.04.07 at 12h 15m 39s.xml">
+      <configuration name="PermMissingElemTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CyclicRotationTest_solution_cyclic_rotation - 2017.04.07 at 11h 34m 00s.xml">
-      <configuration name="CyclicRotationTest.solution_cyclic_rotation" configurationId="JUnit" />
+    <history-entry file="PermMissingElemTest - 2017.04.07 at 12h 16m 13s.xml">
+      <configuration name="PermMissingElemTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CyclicRotationTest_solution_cyclic_rotation - 2017.04.07 at 11h 35m 46s.xml">
-      <configuration name="CyclicRotationTest.solution_cyclic_rotation" configurationId="JUnit" />
+    <history-entry file="PermMissingElemTest - 2017.04.07 at 12h 16m 42s.xml">
+      <configuration name="PermMissingElemTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CyclicRotationTest_solution_cyclic_rotation - 2017.04.07 at 11h 36m 01s.xml">
-      <configuration name="CyclicRotationTest.solution_cyclic_rotation" configurationId="JUnit" />
+    <history-entry file="PermMissingElemTest - 2017.04.07 at 12h 17m 19s.xml">
+      <configuration name="PermMissingElemTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CyclicRotationTest_solution_cyclic_rotation - 2017.04.07 at 11h 36m 08s.xml">
-      <configuration name="CyclicRotationTest.solution_cyclic_rotation" configurationId="JUnit" />
+    <history-entry file="PermMissingElemTest - 2017.04.07 at 12h 18m 15s.xml">
+      <configuration name="PermMissingElemTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CyclicRotationTest_solution_cyclic_rotation - 2017.04.07 at 11h 38m 24s.xml">
-      <configuration name="CyclicRotationTest.solution_cyclic_rotation" configurationId="JUnit" />
+    <history-entry file="PermMissingElemTest - 2017.04.07 at 12h 18m 36s.xml">
+      <configuration name="PermMissingElemTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CyclicRotationTest_solution_cyclic_rotation - 2017.04.07 at 11h 38m 50s.xml">
-      <configuration name="CyclicRotationTest.solution_cyclic_rotation" configurationId="JUnit" />
+    <history-entry file="PermMissingElemTest - 2017.04.07 at 12h 19m 28s.xml">
+      <configuration name="PermMissingElemTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16809000" />
+    <option name="totallyTimeSpent" value="19087000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
@@ -738,6 +859,7 @@
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3299435" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -761,7 +883,6 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" x="91" y="91" width="1738" height="850" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -772,6 +893,12 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit" />
+    <MESSAGE value="Perm-missing-elem" />
+    <option name="LAST_COMMIT_MESSAGE" value="Perm-missing-elem" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -786,9 +913,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="504">
           <caret line="25" column="5" lean-forward="false" selection-start-line="13" selection-start-column="4" selection-end-line="25" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -805,7 +930,7 @@
         <state relative-caret-position="609">
           <caret line="31" column="5" lean-forward="false" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -815,7 +940,7 @@
         <state relative-caret-position="546">
           <caret line="29" column="17" lean-forward="true" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -824,9 +949,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="504">
           <caret line="25" column="5" lean-forward="false" selection-start-line="13" selection-start-column="4" selection-end-line="25" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -843,7 +966,7 @@
         <state relative-caret-position="609">
           <caret line="31" column="5" lean-forward="false" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -853,7 +976,7 @@
         <state relative-caret-position="252">
           <caret line="15" column="37" lean-forward="true" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -869,9 +992,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="42">
           <caret line="3" column="3" lean-forward="true" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -917,13 +1038,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/binary-gap/src/test/java/SolutionTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="4" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="147">
@@ -932,10 +1046,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/oddoccurrencesinarray/src/test/java/SolutionTest.java">
+    <entry file="file://$PROJECT_DIR$/cyclic-rotation/src/test/java/CyclicRotationTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="25" column="5" lean-forward="false" selection-start-line="13" selection-start-column="4" selection-end-line="25" selection-end-column="5" />
+        <state relative-caret-position="527">
+          <caret line="28" column="17" lean-forward="false" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cyclic-rotation/src/main/java/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="651">
+          <caret line="31" column="5" lean-forward="true" selection-start-line="27" selection-start-column="4" selection-end-line="31" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="false" />
           </folding>
@@ -950,23 +1074,47 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cyclic-rotation/src/main/java/Solution.java">
+    <entry file="file://$PROJECT_DIR$/oddoccurrencesinarray/src/test/java/SolutionTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="609">
-          <caret line="31" column="5" lean-forward="false" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+        <state relative-caret-position="504">
+          <caret line="25" column="5" lean-forward="false" selection-start-line="13" selection-start-column="4" selection-end-line="25" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/perm-missing-elem/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/binary-gap/src/test/java/SolutionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="4" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/perm-missing-elem/src/test/java/PermMissingElemTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="14" column="31" lean-forward="false" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="34" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#368#369#0" expanded="true" />
+            <element signature="e#411#412#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cyclic-rotation/src/test/java/CyclicRotationTest.java">
+    <entry file="file://$PROJECT_DIR$/perm-missing-elem/src/main/java/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="548">
-          <caret line="29" column="17" lean-forward="false" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="105">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
